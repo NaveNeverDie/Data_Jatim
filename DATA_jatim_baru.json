@@ -1,0 +1,1043 @@
+{
+  "metadata": {
+    "sumber": "Badan Pusat Statistik (BPS) & Kementerian Dalam Negeri (Kemendagri)",
+    "wilayah": "Kabupaten Trenggalek",
+    "kode_kabupaten_bps": "3503",
+    "kode_kabupaten_kemendagri": "35.03",
+    "total_records": 172
+  },
+  "data": [
+    {
+      "jenis": "Kabupaten",
+      "nama_wilayah": "Trenggalek",
+      "kode_bps": "3503",
+      "kode_kemendagri": "35.03"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Panggul",
+      "kode_bps": "3503010",
+      "kode_kemendagri": "35.03.01"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Munjungan",
+      "kode_bps": "3503020",
+      "kode_kemendagri": "35.03.02"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Watulimo",
+      "kode_bps": "3503030",
+      "kode_kemendagri": "35.03.08"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Kampak",
+      "kode_bps": "3503040",
+      "kode_kemendagri": "35.03.07"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Dongko",
+      "kode_bps": "3503050",
+      "kode_kemendagri": "35.03.04"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Pule",
+      "kode_bps": "3503060",
+      "kode_kemendagri": "35.03.03"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Karangan",
+      "kode_bps": "3503070",
+      "kode_kemendagri": "35.03.06"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Suruh",
+      "kode_bps": "3503071",
+      "kode_kemendagri": "35.03.14"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Gandusari",
+      "kode_bps": "3503080",
+      "kode_kemendagri": "35.03.10"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Durenan",
+      "kode_bps": "3503090",
+      "kode_kemendagri": "35.03.13"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Pogalan",
+      "kode_bps": "3503100",
+      "kode_kemendagri": "35.03.12"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Trenggalek",
+      "kode_bps": "3503110",
+      "kode_kemendagri": "35.03.11"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Tugu",
+      "kode_bps": "3503120",
+      "kode_kemendagri": "35.03.05"
+    },
+    {
+      "jenis": "Kecamatan",
+      "nama_wilayah": "Bendungan",
+      "kode_bps": "3503130",
+      "kode_kemendagri": "35.03.09"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Nglebeng",
+      "kode_bps": "3503010001",
+      "kode_kemendagri": "35.03.01.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Banjar",
+      "kode_bps": "3503010002",
+      "kode_kemendagri": "35.03.01.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngrambing",
+      "kode_bps": "3503010003",
+      "kode_kemendagri": "35.03.01.2017"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngrencak",
+      "kode_bps": "3503010004",
+      "kode_kemendagri": "35.03.01.2013"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Panggul",
+      "kode_bps": "3503010005",
+      "kode_kemendagri": "35.03.01.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gayam",
+      "kode_bps": "3503010006",
+      "kode_kemendagri": "35.03.01.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Wonocoyo",
+      "kode_bps": "3503010007",
+      "kode_kemendagri": "35.03.01.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Besuki",
+      "kode_bps": "3503010008",
+      "kode_kemendagri": "35.03.01.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Terbis",
+      "kode_bps": "3503010009",
+      "kode_kemendagri": "35.03.01.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karangtengah",
+      "kode_bps": "3503010010",
+      "kode_kemendagri": "35.03.01.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kertosono",
+      "kode_bps": "3503010011",
+      "kode_kemendagri": "35.03.01.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bodag",
+      "kode_bps": "3503010012",
+      "kode_kemendagri": "35.03.01.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Barang",
+      "kode_bps": "3503010013",
+      "kode_kemendagri": "35.03.01.2014"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sawahan",
+      "kode_bps": "3503010014",
+      "kode_kemendagri": "35.03.01.2015"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Manggis",
+      "kode_bps": "3503010015",
+      "kode_kemendagri": "35.03.01.2016"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tangkil",
+      "kode_bps": "3503010016",
+      "kode_kemendagri": "35.03.01.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Depok",
+      "kode_bps": "3503010017",
+      "kode_kemendagri": "35.03.01.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngulungwetan",
+      "kode_bps": "3503020001",
+      "kode_kemendagri": "35.03.02.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngulungkulon",
+      "kode_bps": "3503020002",
+      "kode_kemendagri": "35.03.02.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sobo",
+      "kode_bps": "3503020003",
+      "kode_kemendagri": "35.03.02.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Craken",
+      "kode_bps": "3503020004",
+      "kode_kemendagri": "35.03.02.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Masaran",
+      "kode_bps": "3503020005",
+      "kode_kemendagri": "35.03.02.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Munjungan",
+      "kode_bps": "3503020006",
+      "kode_kemendagri": "35.03.02.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tawing",
+      "kode_bps": "3503020007",
+      "kode_kemendagri": "35.03.02.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bendoroto",
+      "kode_bps": "3503020008",
+      "kode_kemendagri": "35.03.02.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bangun",
+      "kode_bps": "3503020009",
+      "kode_kemendagri": "35.03.02.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karangturi",
+      "kode_bps": "3503020010",
+      "kode_kemendagri": "35.03.02.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Besuki",
+      "kode_bps": "3503020011",
+      "kode_kemendagri": "35.03.02.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karanggandu",
+      "kode_bps": "3503030001",
+      "kode_kemendagri": "35.03.08.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Prigi",
+      "kode_bps": "3503030002",
+      "kode_kemendagri": "35.03.08.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tasikmadu",
+      "kode_bps": "3503030003",
+      "kode_kemendagri": "35.03.08.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Watulimo",
+      "kode_bps": "3503030004",
+      "kode_kemendagri": "35.03.08.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Margomulyo",
+      "kode_bps": "3503030005",
+      "kode_kemendagri": "35.03.08.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sawahan",
+      "kode_bps": "3503030006",
+      "kode_kemendagri": "35.03.08.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Dukuh",
+      "kode_bps": "3503030007",
+      "kode_kemendagri": "35.03.08.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Slawe",
+      "kode_bps": "3503030008",
+      "kode_kemendagri": "35.03.08.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gemahrejo",
+      "kode_bps": "3503030009",
+      "kode_kemendagri": "35.03.08.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pakel",
+      "kode_bps": "3503030010",
+      "kode_kemendagri": "35.03.08.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngembel",
+      "kode_bps": "3503030011",
+      "kode_kemendagri": "35.03.08.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Watuagung",
+      "kode_bps": "3503030012",
+      "kode_kemendagri": "35.03.08.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngadimulyo",
+      "kode_bps": "3503040001",
+      "kode_kemendagri": "35.03.07.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karangrejo",
+      "kode_bps": "3503040002",
+      "kode_kemendagri": "35.03.07.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Senden",
+      "kode_bps": "3503040003",
+      "kode_kemendagri": "35.03.07.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sugihan",
+      "kode_bps": "3503040004",
+      "kode_kemendagri": "35.03.07.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bendoagung",
+      "kode_bps": "3503040005",
+      "kode_kemendagri": "35.03.07.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bogoran",
+      "kode_bps": "3503040006",
+      "kode_kemendagri": "35.03.07.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Timahan",
+      "kode_bps": "3503040007",
+      "kode_kemendagri": "35.03.07.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Watuagung",
+      "kode_bps": "3503050001",
+      "kode_kemendagri": "35.03.04.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pandean",
+      "kode_bps": "3503050002",
+      "kode_kemendagri": "35.03.04.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Salamwetas",
+      "kode_bps": "3503050003",
+      "kode_kemendagri": "35.03.04.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngerdani",
+      "kode_bps": "3503050004",
+      "kode_kemendagri": "35.03.04.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Petung",
+      "kode_bps": "3503050005",
+      "kode_kemendagri": "35.03.04.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Cakul",
+      "kode_bps": "3503050006",
+      "kode_kemendagri": "35.03.04.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Siki",
+      "kode_bps": "3503050007",
+      "kode_kemendagri": "35.03.04.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Dongko",
+      "kode_bps": "3503050008",
+      "kode_kemendagri": "35.03.04.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumberbening",
+      "kode_bps": "3503050009",
+      "kode_kemendagri": "35.03.04.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pringapus",
+      "kode_bps": "3503050010",
+      "kode_kemendagri": "35.03.04.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sidomulyo",
+      "kode_bps": "3503060001",
+      "kode_kemendagri": "35.03.03.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Puyung",
+      "kode_bps": "3503060002",
+      "kode_kemendagri": "35.03.03.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Joho",
+      "kode_bps": "3503060003",
+      "kode_kemendagri": "35.03.03.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kembangan",
+      "kode_bps": "3503060004",
+      "kode_kemendagri": "35.03.03.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pakel",
+      "kode_bps": "3503060005",
+      "kode_kemendagri": "35.03.03.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pule",
+      "kode_bps": "3503060006",
+      "kode_kemendagri": "35.03.03.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Jombok",
+      "kode_bps": "3503060007",
+      "kode_kemendagri": "35.03.03.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tanggaran",
+      "kode_bps": "3503060008",
+      "kode_kemendagri": "35.03.03.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karanganyar",
+      "kode_bps": "3503060009",
+      "kode_kemendagri": "35.03.03.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukokidul",
+      "kode_bps": "3503060010",
+      "kode_kemendagri": "35.03.03.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukowetan",
+      "kode_bps": "3503070005",
+      "kode_kemendagri": "35.03.06.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Jatiprahu",
+      "kode_bps": "3503070006",
+      "kode_kemendagri": "35.03.06.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumberingin",
+      "kode_bps": "3503070007",
+      "kode_kemendagri": "35.03.06.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kudungsigit",
+      "kode_bps": "3503070008",
+      "kode_kemendagri": "35.03.06.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Jati",
+      "kode_bps": "3503070009",
+      "kode_kemendagri": "35.03.06.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kayen",
+      "kode_bps": "3503070013",
+      "kode_kemendagri": "35.03.06.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karangan",
+      "kode_bps": "3503070014",
+      "kode_kemendagri": "35.03.06.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kerjo",
+      "kode_bps": "3503070015",
+      "kode_kemendagri": "35.03.06.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Salamrejo",
+      "kode_bps": "3503070016",
+      "kode_kemendagri": "35.03.06.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Buluagung",
+      "kode_bps": "3503070017",
+      "kode_kemendagri": "35.03.06.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumber",
+      "kode_bps": "3503070018",
+      "kode_kemendagri": "35.03.06.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngentrong",
+      "kode_bps": "3503070019",
+      "kode_kemendagri": "35.03.06.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngrandu",
+      "kode_bps": "3503071001",
+      "kode_kemendagri": "35.03.14.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Puru",
+      "kode_bps": "3503071002",
+      "kode_kemendagri": "35.03.14.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Wonokerto",
+      "kode_bps": "3503071003",
+      "kode_kemendagri": "35.03.14.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Nglebo",
+      "kode_bps": "3503071004",
+      "kode_kemendagri": "35.03.14.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gamping",
+      "kode_bps": "3503071005",
+      "kode_kemendagri": "35.03.14.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Suruh",
+      "kode_bps": "3503071006",
+      "kode_kemendagri": "35.03.14.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Mlinjon",
+      "kode_bps": "3503071007",
+      "kode_kemendagri": "35.03.14.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngrayung",
+      "kode_bps": "3503080001",
+      "kode_kemendagri": "35.03.10.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Jajar",
+      "kode_bps": "3503080002",
+      "kode_kemendagri": "35.03.10.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Wonorejo",
+      "kode_bps": "3503080003",
+      "kode_kemendagri": "35.03.10.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukorejo",
+      "kode_bps": "3503080004",
+      "kode_kemendagri": "35.03.10.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gandusari",
+      "kode_bps": "3503080005",
+      "kode_kemendagri": "35.03.10.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Wonoanti",
+      "kode_bps": "3503080006",
+      "kode_kemendagri": "35.03.10.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Widoro",
+      "kode_bps": "3503080007",
+      "kode_kemendagri": "35.03.10.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karanganyar",
+      "kode_bps": "3503080008",
+      "kode_kemendagri": "35.03.10.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Melis",
+      "kode_bps": "3503080009",
+      "kode_kemendagri": "35.03.10.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Krandegan",
+      "kode_bps": "3503080010",
+      "kode_kemendagri": "35.03.10.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukorame",
+      "kode_bps": "3503080011",
+      "kode_kemendagri": "35.03.10.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngadisuko",
+      "kode_bps": "3503090001",
+      "kode_kemendagri": "35.03.13.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Durenan",
+      "kode_bps": "3503090002",
+      "kode_kemendagri": "35.03.13.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pandean",
+      "kode_bps": "3503090003",
+      "kode_kemendagri": "35.03.13.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Panggungsari",
+      "kode_bps": "3503090004",
+      "kode_kemendagri": "35.03.13.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Malasan",
+      "kode_bps": "3503090005",
+      "kode_kemendagri": "35.03.13.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karanganom",
+      "kode_bps": "3503090006",
+      "kode_kemendagri": "35.03.13.2014"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Baruharjo",
+      "kode_bps": "3503090007",
+      "kode_kemendagri": "35.03.13.2013"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kamulan",
+      "kode_bps": "3503090008",
+      "kode_kemendagri": "35.03.13.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumbergayam",
+      "kode_bps": "3503090009",
+      "kode_kemendagri": "35.03.13.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pakis",
+      "kode_bps": "3503090010",
+      "kode_kemendagri": "35.03.13.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Semarum",
+      "kode_bps": "3503090011",
+      "kode_kemendagri": "35.03.13.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kendalrejo",
+      "kode_bps": "3503090012",
+      "kode_kemendagri": "35.03.13.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gador",
+      "kode_bps": "3503090013",
+      "kode_kemendagri": "35.03.13.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumberejo",
+      "kode_bps": "3503090014",
+      "kode_kemendagri": "35.03.13.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngadirejo",
+      "kode_bps": "3503100001",
+      "kode_kemendagri": "35.03.12.20"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kedunglurah",
+      "kode_bps": "3503100002",
+      "kode_kemendagri": "35.03.12.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Bendorejo",
+      "kode_bps": "3503100003",
+      "kode_kemendagri": "35.03.12.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Wonocoyo",
+      "kode_bps": "3503100004",
+      "kode_kemendagri": "35.03.12.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngetal",
+      "kode_bps": "3503100005",
+      "kode_kemendagri": "35.03.12.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngadirenggo",
+      "kode_bps": "3503100006",
+      "kode_kemendagri": "35.03.12.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gembleb",
+      "kode_bps": "3503100007",
+      "kode_kemendagri": "35.03.12.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngulanwetan",
+      "kode_bps": "3503100008",
+      "kode_kemendagri": "35.03.12.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngulankulon",
+      "kode_bps": "3503100009",
+      "kode_kemendagri": "35.03.12.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pogalan",
+      "kode_bps": "3503100010",
+      "kode_kemendagri": "35.03.12.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Karangsoko",
+      "kode_bps": "3503110001",
+      "kode_kemendagri": "35.03.11.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sambirejo",
+      "kode_bps": "3503110002",
+      "kode_kemendagri": "35.03.11.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Kelutan",
+      "kode_bps": "3503110003",
+      "kode_kemendagri": "35.03.11.1005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tamanan",
+      "kode_bps": "3503110004",
+      "kode_kemendagri": "35.03.11.1002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngantru",
+      "kode_bps": "3503110005",
+      "kode_kemendagri": "35.03.11.1003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumbergedong",
+      "kode_bps": "3503110006",
+      "kode_kemendagri": "35.03.11.1007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Surodakan",
+      "kode_bps": "3503110007",
+      "kode_kemendagri": "35.03.11.1006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Rejowinangun",
+      "kode_bps": "3503110008",
+      "kode_kemendagri": "35.03.11.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Parakan",
+      "kode_bps": "3503110009",
+      "kode_kemendagri": "35.03.11.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngares",
+      "kode_bps": "3503110010",
+      "kode_kemendagri": "35.03.11.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumberdadi",
+      "kode_bps": "3503110011",
+      "kode_kemendagri": "35.03.11.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukosari",
+      "kode_bps": "3503110012",
+      "kode_kemendagri": "35.03.11.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Dawuhan",
+      "kode_bps": "3503110013",
+      "kode_kemendagri": "35.03.11.2013"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Duren",
+      "kode_bps": "3503120001",
+      "kode_kemendagri": "35.03.05.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Ngepeh",
+      "kode_bps": "3503120002",
+      "kode_kemendagri": "35.03.05.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tumpuk",
+      "kode_bps": "3503120003",
+      "kode_kemendagri": "35.03.05.2009"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gondang",
+      "kode_bps": "3503120004",
+      "kode_kemendagri": "35.03.05.2012"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Nglongsor",
+      "kode_bps": "3503120005",
+      "kode_kemendagri": "35.03.05.2013"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Banaran",
+      "kode_bps": "3503120006",
+      "kode_kemendagri": "35.03.05.2014"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Winong",
+      "kode_bps": "3503120007",
+      "kode_kemendagri": "35.03.05.2010"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sukorejo",
+      "kode_bps": "3503120008",
+      "kode_kemendagri": "35.03.05.2008"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Jambu",
+      "kode_bps": "3503120009",
+      "kode_kemendagri": "35.03.05.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Nglinggis",
+      "kode_bps": "3503120010",
+      "kode_kemendagri": "35.03.05.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Gading",
+      "kode_bps": "3503120011",
+      "kode_kemendagri": "35.03.05.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Pucanganak",
+      "kode_bps": "3503120012",
+      "kode_kemendagri": "35.03.05.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Dermosari",
+      "kode_bps": "3503120013",
+      "kode_kemendagri": "35.03.05.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Tegaren",
+      "kode_bps": "3503120014",
+      "kode_kemendagri": "35.03.05.2011"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Prambon",
+      "kode_bps": "3503120015",
+      "kode_kemendagri": "35.03.05.2015"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Masaran",
+      "kode_bps": "3503130001",
+      "kode_kemendagri": "35.03.09.2001"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sengon",
+      "kode_bps": "3503130002",
+      "kode_kemendagri": "35.03.09.2002"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Sumurup",
+      "kode_bps": "3503130003",
+      "kode_kemendagri": "35.03.09.2004"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Srabah",
+      "kode_bps": "3503130004",
+      "kode_kemendagri": "35.03.09.2005"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Depok",
+      "kode_bps": "3503130005",
+      "kode_kemendagri": "35.03.09.2007"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Surenlor",
+      "kode_bps": "3503130006",
+      "kode_kemendagri": "35.03.09.2003"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Dompyong",
+      "kode_bps": "3503130007",
+      "kode_kemendagri": "35.03.09.2006"
+    },
+    {
+      "jenis": "Desa/Kelurahan",
+      "nama_wilayah": "Botoputih",
+      "kode_bps": "3503130008",
+      "kode_kemendagri": "35.03.09.2008"
+    }
+  ]
+}
